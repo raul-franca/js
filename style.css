@@ -1,0 +1,16 @@
+body {
+  background: #202124;
+  color: seagreen;
+}
+
+.mainDiv {
+  text-align: center;
+}
+
+.assunto{
+  border-radius: 6px;
+  border: 1px solid blue;
+  padding: 15px;
+  margin-top: 10px;
+
+}
